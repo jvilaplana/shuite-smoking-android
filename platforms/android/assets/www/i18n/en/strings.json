@@ -1,0 +1,10 @@
+{
+    "languageSpecifications": [
+        {
+            "username": "Please Enter your user name",
+            "password": "Please enter your password",
+            "headingtext": "Please Fill Details",
+            "submit": "Go"
+        }
+    ]
+}
